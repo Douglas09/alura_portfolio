@@ -14,4 +14,4 @@
 
 ### Douglas Colombo
 
-### Linkedin: linkedin.com/in/douglas-colombo-2a0718239
+### Linkedin: http://linkedin.com/in/douglas-colombo-2a0718239
