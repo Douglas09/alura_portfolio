@@ -1,4 +1,4 @@
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+# Olá, Bem vindo ao meu projeto de portfólio / Alura.
 
 ![image](https://github.com/user-attachments/assets/ac61fcec-9ac1-4a18-ab5e-0218cd591b13)
 
